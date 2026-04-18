@@ -219,8 +219,8 @@ MIT License
 
 ## 联系方式
 
-- GitHub: [@你的用户名](https://github.com/你的用户名)
-- Email: your.email@example.com
+- GitHub: [@wuwenjia-ai-open](https://github.com/wuwenjia-ai-open)
+- Email: wuwenjia@outlook.com
 
 ---
 
